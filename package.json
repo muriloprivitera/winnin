@@ -1,0 +1,29 @@
+{
+  "name": "prova-certa",
+  "version": "1.0.0",
+  "description": "Prova da Winnin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muriloprivitera/prova-winnin.git"
+  },
+  "keywords": [
+    "murilo"
+  ],
+  "author": "murilo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muriloprivitera/prova-winnin/issues"
+  },
+  "homepage": "https://github.com/muriloprivitera/prova-winnin#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cron": "^1.8.2",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "mysql": "^2.18.1"
+  }
+}

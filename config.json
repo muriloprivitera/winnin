@@ -1,0 +1,8 @@
+{
+    "API_HOT_REDDIT": "https://api.reddit.com/r/artificial/hot",
+    "HOST": "127.0.0.1",
+    "PORT": "3306",
+    "USER": "root2", 
+    "PASSWORD": "1234",
+    "DATABASE": "pim"
+}
